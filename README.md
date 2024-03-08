@@ -1,3 +1,5 @@
+See the website live at https://main--basketball-scoreboard-project-denis.netlify.app/
+
 # co16c45df8e33a4bcd996779a
 
 Quick start:
